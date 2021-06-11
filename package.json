@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://SokolMks.github.io/goit-js-hw-foods",
+  "homepage": "https://sokolmks.github.io/goit-js-hw-foods",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-foods/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SokolMks/goit-js-hw-foods.git"
+    "url": "git+https://github.com/sokolmks/goit-js-hw-foods.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
